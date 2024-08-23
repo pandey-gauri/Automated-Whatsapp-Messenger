@@ -2,7 +2,7 @@ import pywhatkit as kit
 from datetime import datetime, timedelta
 
 # Define the phone number with the country code, e.g., +1234567890
-phone_number = "+919305190621"
+phone_number = "+1234567890"
 
 # Define the message you want to send
 message = "Hello, this is an automated message sent using Python!"
